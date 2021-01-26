@@ -1,0 +1,13 @@
+C:\Users\John\source\repos\RustFurnaceCalculator2\RustFurnaceCalculator2\obj\Debug\RustFurnaceCalculator2.Main.resources
+C:\Users\John\source\repos\RustFurnaceCalculator2\RustFurnaceCalculator2\obj\Debug\RustFurnaceCalculator.Properties.Resources.resources
+C:\Users\John\source\repos\RustFurnaceCalculator2\RustFurnaceCalculator2\obj\Debug\RustFurnaceCalculator.csproj.GenerateResource.cache
+C:\Users\John\source\repos\RustFurnaceCalculator2\RustFurnaceCalculator2\obj\Debug\RustFurnaceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\RustFurnaceCalculator2\RustFurnaceCalculator2\bin\Debug\Rust Furnace Calculator.exe.config
+C:\Users\John\source\repos\RustFurnaceCalculator2\RustFurnaceCalculator2\bin\Debug\Rust Furnace Calculator.exe.manifest
+C:\Users\John\source\repos\RustFurnaceCalculator2\RustFurnaceCalculator2\bin\Debug\Rust Furnace Calculator.application
+C:\Users\John\source\repos\RustFurnaceCalculator2\RustFurnaceCalculator2\bin\Debug\Rust Furnace Calculator.exe
+C:\Users\John\source\repos\RustFurnaceCalculator2\RustFurnaceCalculator2\bin\Debug\Rust Furnace Calculator.pdb
+C:\Users\John\source\repos\RustFurnaceCalculator2\RustFurnaceCalculator2\obj\Debug\Rust Furnace Calculator.exe.manifest
+C:\Users\John\source\repos\RustFurnaceCalculator2\RustFurnaceCalculator2\obj\Debug\Rust Furnace Calculator.application
+C:\Users\John\source\repos\RustFurnaceCalculator2\RustFurnaceCalculator2\obj\Debug\Rust Furnace Calculator.exe
+C:\Users\John\source\repos\RustFurnaceCalculator2\RustFurnaceCalculator2\obj\Debug\Rust Furnace Calculator.pdb
